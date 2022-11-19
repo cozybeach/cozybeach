@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm alchei9</h1>
-<h3 align="center">Crypto & Web3 enthusiast, Node Operator,</h3>
+<h3 align="center">Crypto & Web3 enthusiast, Node Operator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cozybeach&label=Profile%20views&color=0e75b6&style=plastic" alt="cozybeach" /> </p>
 
