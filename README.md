@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm alchei9</h1>
+<h1 align="center">Hi! I'm alchei9</h1>
 <h3 align="center">Crypto & Web3 enthusiast, Node Operator,</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cozybeach&label=Profile%20views&color=0e75b6&style=plastic" alt="cozybeach" /> </p>
 
 <p align="left"> <a href="https://twitter.com/alchei9" target="blank"><img src="https://img.shields.io/twitter/follow/alchei9?logo=twitter&style=for-the-badge" alt="alchei9" /></a> </p>
 
-- 👨‍💻 Every event in which I take part is **Quicksilver, Paloma, Another-1, Forta, Aptos, Defund Finance, Neutron, Inery, Chainflip,**
+- 👨‍💻 Every Node Operator event in which I take part is **Quicksilver, Paloma, Another-1, Forta, Aptos, Defund Finance, Neutron, Inery, Chainflip,**
 
 - 👯 Ideally, I'd like to take part in **Validator or Node operator testnet**
 
