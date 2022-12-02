@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/alchei9" target="blank"><img src="https://img.shields.io/twitter/follow/alchei9?logo=twitter&style=for-the-badge" alt="alchei9" /></a> </p>
 
-- 👨‍💻 Every Node Operator event in which I take part is **Quicksilver, Paloma, Another-1, Forta, Aptos, Defund Finance, Neutron, Inery, Chainflip**
+- 👨‍💻 Every Node Operator event in which I take part is **Quicksilver, Paloma, Another-1, Forta, Aptos, Defund Finance, Neutron, Inery, Chainflip, Bifrost, Massa Finance, Exorde, Zeeka, Stride**
 
 - 👯 Ideally, I'd like to take part in **Validator or Node operator testnet**
 
